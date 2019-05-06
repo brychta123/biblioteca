@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1556834425 source:c:\users\dami\desktop\trabajo practico nº2\empleados.c
+	"EMPLEADOS.H"
+
+1556834314 source:c:\users\dami\desktop\trabajo practico nº2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EMPLEADOS.H"
+
+1556834265 c:\users\dami\desktop\trabajo practico nº2\empleados.h
+	<stdio.h>
+
